@@ -1,0 +1,16 @@
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Ev Tapsirigi 6 -- Task1\bin\Debug\net5.0\Ev Tapsirigi 6 -- Task1.exe
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Ev Tapsirigi 6 -- Task1\bin\Debug\net5.0\Ev Tapsirigi 6 -- Task1.deps.json
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Ev Tapsirigi 6 -- Task1\bin\Debug\net5.0\Ev Tapsirigi 6 -- Task1.runtimeconfig.json
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Ev Tapsirigi 6 -- Task1\bin\Debug\net5.0\Ev Tapsirigi 6 -- Task1.runtimeconfig.dev.json
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Ev Tapsirigi 6 -- Task1\bin\Debug\net5.0\Ev Tapsirigi 6 -- Task1.dll
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Ev Tapsirigi 6 -- Task1\bin\Debug\net5.0\ref\Ev Tapsirigi 6 -- Task1.dll
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Ev Tapsirigi 6 -- Task1\bin\Debug\net5.0\Ev Tapsirigi 6 -- Task1.pdb
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Ev Tapsirigi 6 -- Task1\obj\Debug\net5.0\Ev Tapsirigi 6 -- Task1.csproj.AssemblyReference.cache
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Ev Tapsirigi 6 -- Task1\obj\Debug\net5.0\Ev Tapsirigi 6 -- Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Ev Tapsirigi 6 -- Task1\obj\Debug\net5.0\Ev Tapsirigi 6 -- Task1.AssemblyInfoInputs.cache
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Ev Tapsirigi 6 -- Task1\obj\Debug\net5.0\Ev Tapsirigi 6 -- Task1.AssemblyInfo.cs
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Ev Tapsirigi 6 -- Task1\obj\Debug\net5.0\Ev Tapsirigi 6 -- Task1.csproj.CoreCompileInputs.cache
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Ev Tapsirigi 6 -- Task1\obj\Debug\net5.0\Ev Tapsirigi 6 -- Task1.dll
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Ev Tapsirigi 6 -- Task1\obj\Debug\net5.0\ref\Ev Tapsirigi 6 -- Task1.dll
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Ev Tapsirigi 6 -- Task1\obj\Debug\net5.0\Ev Tapsirigi 6 -- Task1.pdb
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Ev Tapsirigi 6 -- Task1\obj\Debug\net5.0\Ev Tapsirigi 6 -- Task1.genruntimeconfig.cache

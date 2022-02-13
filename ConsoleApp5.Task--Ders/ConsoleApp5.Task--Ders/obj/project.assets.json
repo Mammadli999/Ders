@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abbasfm\\source\\repos\\ConsoleApp5.Task--Ders\\ConsoleApp5.Task--Ders\\ConsoleApp5.Task--Ders.csproj",
+      "projectUniqueName": "C:\\Users\\abbasfm\\Desktop\\Ders\\ConsoleApp5.Task--Ders\\ConsoleApp5.Task--Ders\\ConsoleApp5.Task--Ders.csproj",
       "projectName": "ConsoleApp5.Task--Ders",
-      "projectPath": "C:\\Users\\abbasfm\\source\\repos\\ConsoleApp5.Task--Ders\\ConsoleApp5.Task--Ders\\ConsoleApp5.Task--Ders.csproj",
+      "projectPath": "C:\\Users\\abbasfm\\Desktop\\Ders\\ConsoleApp5.Task--Ders\\ConsoleApp5.Task--Ders\\ConsoleApp5.Task--Ders.csproj",
       "packagesPath": "C:\\Users\\abbasfm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abbasfm\\source\\repos\\ConsoleApp5.Task--Ders\\ConsoleApp5.Task--Ders\\obj\\",
+      "outputPath": "C:\\Users\\abbasfm\\Desktop\\Ders\\ConsoleApp5.Task--Ders\\ConsoleApp5.Task--Ders\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abbasfm\\AppData\\Roaming\\NuGet\\NuGet.Config",

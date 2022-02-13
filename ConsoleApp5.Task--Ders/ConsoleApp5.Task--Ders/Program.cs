@@ -6,14 +6,14 @@ namespace ConsoleApp5.Task__Ders
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Eded Daxil Edin");
+            Console.Write("Eded Daxil Edin: ");
 
             int reqem = Convert.ToInt32(Console.ReadLine());
             
             string v = "";
             int qaliq = reqem % 10;
 
-            while (qaliq > 7 || qaliq < 1)
+            while ((qaliq > 7 || qaliq < 1) && reqem !=0)
             {
 
                 reqem = reqem / 10;
@@ -67,7 +67,7 @@ namespace ConsoleApp5.Task__Ders
                     }
             }
                     Console.WriteLine(v);
-            Console.ReadKey();
+            
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\bin\Debug\net5.0\ConsoleApp1.Ders Task 9.exe
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\bin\Debug\net5.0\ConsoleApp1.Ders Task 9.deps.json
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\bin\Debug\net5.0\ConsoleApp1.Ders Task 9.runtimeconfig.json
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\bin\Debug\net5.0\ConsoleApp1.Ders Task 9.runtimeconfig.dev.json
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\bin\Debug\net5.0\ConsoleApp1.Ders Task 9.dll
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\bin\Debug\net5.0\ref\ConsoleApp1.Ders Task 9.dll
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\bin\Debug\net5.0\ConsoleApp1.Ders Task 9.pdb
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\obj\Debug\net5.0\ConsoleApp1.Ders Task 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\obj\Debug\net5.0\ConsoleApp1.Ders Task 9.AssemblyInfoInputs.cache
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\obj\Debug\net5.0\ConsoleApp1.Ders Task 9.AssemblyInfo.cs
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\obj\Debug\net5.0\ConsoleApp1.Ders Task 9.csproj.CoreCompileInputs.cache
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\obj\Debug\net5.0\ConsoleApp1.Ders Task 9.dll
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\obj\Debug\net5.0\ref\ConsoleApp1.Ders Task 9.dll
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\obj\Debug\net5.0\ConsoleApp1.Ders Task 9.pdb
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\obj\Debug\net5.0\ConsoleApp1.Ders Task 9.genruntimeconfig.cache
