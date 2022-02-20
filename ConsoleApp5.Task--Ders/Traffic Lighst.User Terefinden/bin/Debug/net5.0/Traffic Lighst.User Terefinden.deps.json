@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Traffic Lighst.User Terefinden/1.0.0": {
+        "runtime": {
+          "Traffic Lighst.User Terefinden.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Traffic Lighst.User Terefinden/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

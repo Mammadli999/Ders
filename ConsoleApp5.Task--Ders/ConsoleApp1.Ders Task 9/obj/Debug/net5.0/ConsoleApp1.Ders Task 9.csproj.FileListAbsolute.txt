@@ -13,3 +13,4 @@ C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\obj
 C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\obj\Debug\net5.0\ref\ConsoleApp1.Ders Task 9.dll
 C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\obj\Debug\net5.0\ConsoleApp1.Ders Task 9.pdb
 C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\obj\Debug\net5.0\ConsoleApp1.Ders Task 9.genruntimeconfig.cache
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\ConsoleApp1.Ders Task 9\obj\Debug\net5.0\ConsoleApp1.Ders Task 9.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Svetafor\bin\Debug\net5.0\Svetafor.exe
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Svetafor\bin\Debug\net5.0\Svetafor.deps.json
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Svetafor\bin\Debug\net5.0\Svetafor.runtimeconfig.json
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Svetafor\bin\Debug\net5.0\Svetafor.runtimeconfig.dev.json
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Svetafor\bin\Debug\net5.0\Svetafor.dll
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Svetafor\bin\Debug\net5.0\ref\Svetafor.dll
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Svetafor\bin\Debug\net5.0\Svetafor.pdb
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Svetafor\obj\Debug\net5.0\Svetafor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Svetafor\obj\Debug\net5.0\Svetafor.AssemblyInfoInputs.cache
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Svetafor\obj\Debug\net5.0\Svetafor.AssemblyInfo.cs
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Svetafor\obj\Debug\net5.0\Svetafor.csproj.CoreCompileInputs.cache
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Svetafor\obj\Debug\net5.0\Svetafor.dll
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Svetafor\obj\Debug\net5.0\ref\Svetafor.dll
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Svetafor\obj\Debug\net5.0\Svetafor.pdb
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Svetafor\obj\Debug\net5.0\Svetafor.genruntimeconfig.cache
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Svetafor\obj\Debug\net5.0\Svetafor.csproj.AssemblyReference.cache

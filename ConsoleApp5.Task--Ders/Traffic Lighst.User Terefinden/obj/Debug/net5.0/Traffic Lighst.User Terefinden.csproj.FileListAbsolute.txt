@@ -1,0 +1,15 @@
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Traffic Lighst.User Terefinden\bin\Debug\net5.0\Traffic Lighst.User Terefinden.exe
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Traffic Lighst.User Terefinden\bin\Debug\net5.0\Traffic Lighst.User Terefinden.deps.json
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Traffic Lighst.User Terefinden\bin\Debug\net5.0\Traffic Lighst.User Terefinden.runtimeconfig.json
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Traffic Lighst.User Terefinden\bin\Debug\net5.0\Traffic Lighst.User Terefinden.runtimeconfig.dev.json
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Traffic Lighst.User Terefinden\bin\Debug\net5.0\Traffic Lighst.User Terefinden.dll
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Traffic Lighst.User Terefinden\bin\Debug\net5.0\ref\Traffic Lighst.User Terefinden.dll
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Traffic Lighst.User Terefinden\bin\Debug\net5.0\Traffic Lighst.User Terefinden.pdb
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Traffic Lighst.User Terefinden\obj\Debug\net5.0\Traffic Lighst.User Terefinden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Traffic Lighst.User Terefinden\obj\Debug\net5.0\Traffic Lighst.User Terefinden.AssemblyInfoInputs.cache
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Traffic Lighst.User Terefinden\obj\Debug\net5.0\Traffic Lighst.User Terefinden.AssemblyInfo.cs
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Traffic Lighst.User Terefinden\obj\Debug\net5.0\Traffic Lighst.User Terefinden.csproj.CoreCompileInputs.cache
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Traffic Lighst.User Terefinden\obj\Debug\net5.0\Traffic Lighst.User Terefinden.dll
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Traffic Lighst.User Terefinden\obj\Debug\net5.0\ref\Traffic Lighst.User Terefinden.dll
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Traffic Lighst.User Terefinden\obj\Debug\net5.0\Traffic Lighst.User Terefinden.pdb
+C:\Users\abbasfm\Desktop\Ders\ConsoleApp5.Task--Ders\Traffic Lighst.User Terefinden\obj\Debug\net5.0\Traffic Lighst.User Terefinden.genruntimeconfig.cache
